@@ -37,7 +37,7 @@ This is a console-based calculator app that allows users to perform various type
 
 1. Clone the repository:
    bash:
-   git clone https://github.com/selimperk/Advanced_Calculator_NO_GUI.git
+   git clone https://github.com/selimperk/Advanced_Calculator_Console.git
 
 2. Navigate to the project directory:
    bash:
